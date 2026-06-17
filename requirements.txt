@@ -1,0 +1,8 @@
+# Google News Agent - Python 3.11+
+# No external dependencies required
+# Uses only Python built-in modules:
+# - urllib (HTTP requests and URL encoding)
+# - xml.etree (XML/RSS parsing)
+# - webbrowser (browser integration)
+# - typing (type hints)
+# - datetime (timestamps)
